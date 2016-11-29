@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SchoolDirectory()
+comment1.params=student
+comment1.target=void\ enrollStudent(Student1)
+comment2.params=student
+comment2.target=boolean\ removeStudent(Student1)
+comment2.text=public\ void\ removeStudent(Student1\ student){\r\n\t\tStudent1\ studentToRemove\ \=\ searchByID(studentHUN);\r\n\t\tif(studentToRemove\ \!\=null){\r\n\t\t\tstudents.remove(studentToRemove);\r\n\t\t}\r\n\t\telse\ {\r\n\t\t\treturn\ null;\r\n\t\t}\r\n\t\treturn\ studentToRemove;\r\n}*
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=key
+comment4.target=java.util.ArrayList\ searchByKey(java.lang.String)
+comment5.params=d
+comment5.target=boolean\ matchingDirectories(SchoolDirectory)
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=className\ name\ type
+comment0.target=void\ checkField(java.lang.String,\ java.lang.String,\ java.lang.Class)
+comment1.params=className\ paramList
+comment1.target=void\ checkConstructor(java.lang.String,\ java.lang.Class[])
+comment2.params=className\ methodName\ argTypes\ returnType
+comment2.target=void\ checkMethod(java.lang.String,\ java.lang.String,\ java.lang.Class[],\ java.lang.Class)
+numComments=3
